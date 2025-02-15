@@ -1,0 +1,4 @@
+Hello from Student B > student_b.txt
+
+Hello from Student B!
+echo Hello from Student B
